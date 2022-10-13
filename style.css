@@ -1,0 +1,15 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: auto;
+}
+
+label {
+    margin-block-start: 10px;
+
+}
+
+button {
+    width: fit-content;
+}
